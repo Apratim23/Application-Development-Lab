@@ -1,5 +1,5 @@
 # Application Development Lab 
-## Personal Informtion
+## Personal Information
 **Name:** Apratim Dutta 
 **Roll Number:** 2205274 
 **Section:** CSE-50  
